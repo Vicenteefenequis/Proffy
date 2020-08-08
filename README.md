@@ -26,10 +26,6 @@ Proffy é uma Aplicação feita durante a **NWL 2.0** oferecido pela [Rocketseat
 A aplicação visa estabelecer um contato entre alunos e professores. O professor ao se cadastrar, informa a matéria que deseja dar aula, os dias disponíveis e horários.
 Após isso os alunos podem encontrar esse professor buscando a matéria, dia e hora que batem com a do professor cadastrado.<br/>
 
-<h2 align="center">
-    <img alt="Proffy" title="#GoBarber" src=".github/web.gif" width="100%" />
-</h2>
-
 ## 🏁 Iniciando <a name = "getting_started"></a>
 
 Instruções de como acessar as rotas e instalação.
@@ -52,7 +48,7 @@ $ cd web
 $ yarn
 $ yarn start
 
-# 📱 Iniciando com o Mobile 🚧 Em Construção...🚧
+# 📱 Iniciando com o Mobile
 
 $ cd mobile
 $ yarn
